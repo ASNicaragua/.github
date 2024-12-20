@@ -25,3 +25,15 @@ En **AlmaSoft**, ofrecemos una solución completa de software y servicios diseñ
 ---
 
 ## **¿Por qué elegir AlmaSoft?**
+- **Experiencia Local**: Con raíces en Nicaragua, comprendemos las necesidades específicas de las empresas de la región.
+- **Adaptabilidad**: Soluciones que se ajustan a diferentes tipos de industrias y empresas.
+- **Eficiencia**: Nuestro software está diseñado para optimizar la gestión empresarial y simplificar procesos.
+
+---
+
+¡Descubra cómo **AlmaSoft** puede transformar la gestión de su empresa y llevarla al siguiente nivel!
+
+### **Contáctenos**
+📞 Teléfono: +505 XXX-XXX-XXXX  
+📧 Correo: contacto@almasoft.com.ni  
+🌐 Sitio web: [www.almasoft.com.ni](http://www.almasoft.com.ni)
